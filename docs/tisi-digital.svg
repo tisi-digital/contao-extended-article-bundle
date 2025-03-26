@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.3 841.9">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #f4f4f4;
+      }
+
+      .st0, .st1 {
+        stroke: #15355a;
+        stroke-miterlimit: 10;
+        stroke-width: 3.4px;
+      }
+
+      .st2 {
+        font-family: Futura-Bold, Futura;
+        font-size: 28px;
+        font-weight: 700;
+      }
+
+      .st2, .st3 {
+        fill: #15355a;
+      }
+
+      .st4 {
+        fill: #00a0a2;
+      }
+
+      .st1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="187.2" y="555.4" width="189" height="189" rx="14.2" ry="14.2"/>
+  <path class="st4" d="M186.8,569.6v160.6c0,7.8,6.4,14.2,14.2,14.2h160.6c3.9,0,7.5-1.6,10-4.2l-180.7-180.7c-2.6,2.6-4.2,6.1-4.2,10Z"/>
+  <path class="st0" d="M245.5,596.4h-25.9c-4.4,0-7.9,3.5-7.9,7.9v34c0,4.4,3.5,7.9,7.9,7.9h124.3c4.4,0,7.9-3.5,7.9-7.9v-34c0-4.4-3.5-7.9-7.9-7.9h-25.9"/>
+  <text class="st2" transform="translate(255.3 603.7)"><tspan x="0" y="0">TISI</tspan><tspan x="-33" y="33.6">DIGITAL</tspan></text>
+  <rect class="st1" x="186.8" y="555.4" width="189" height="189" rx="14.2" ry="14.2"/>
+  <rect class="st3" x="213.6" y="684.7" width="32.2" height="9"/>
+  <rect class="st3" x="213.6" y="699.9" width="50" height="9"/>
+  <rect class="st3" x="213.6" y="715" width="50" height="9"/>
+</svg>

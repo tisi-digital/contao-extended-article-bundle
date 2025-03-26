@@ -1,4 +1,4 @@
-![Alt text](docs/logo.png?raw=true "logo")
+![Alt text](docs/tisi-digital.png?raw=true "logo")
 
 
 # Welcome to extendedArticle
