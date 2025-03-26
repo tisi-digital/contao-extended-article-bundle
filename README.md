@@ -1,4 +1,4 @@
-![Alt text](docs/tisi-digital.png?raw=true "logo")
+![Logo tisi-digital](docs/tisi-digital.png "Logo tisi-digital" {width=150px height=150px})
 
 
 # Welcome to extendedArticle
