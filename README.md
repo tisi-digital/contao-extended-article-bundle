@@ -2,4 +2,4 @@
 
 
 # Welcome to extendedArticle
-This bundle is still under construction.
+This bundle extends the contao articles with image functions.
