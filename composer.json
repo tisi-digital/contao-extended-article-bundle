@@ -1,0 +1,35 @@
+{
+    "name": "tisi-digital/contao-extended-article-bundle",
+    "description": "Erweiterte Funktionen für Contao Artikel",
+    "keywords": [
+        "contao",
+        "bundle",
+        "tag 4",
+        "tag 5"
+    ],
+    "type": "contao-bundle",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Timon Sixt",
+            "email": "mail@tisi-digital.de",
+            "homepage": "https://www.tisi-digital.de",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tisi-digital/contao-extended-article-bundle/issues",
+        "source": "https://github.com/tisi-digital/contao-extended-article-bundle"
+    },
+    "require": {
+        "contao/core-bundle": "^4.9 || ^4.13 || ^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "TisiDigital\\ContaoExtendedArticleBundle\\": "src/"
+        }
+    },
+    "extra": {
+        "contao-manager-plugin": "TisiDigital\\ContaoExtendedArticleBundle\\ContaoManager\\Plugin"
+    }
+}

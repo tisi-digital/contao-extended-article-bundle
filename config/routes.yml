@@ -1,0 +1,3 @@
+tisi_digital.extended_article_bundle.controller:
+  resource: ../src/Controller
+  type: annotation
