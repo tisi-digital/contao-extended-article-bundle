@@ -24,6 +24,12 @@
     "require": {
         "contao/core-bundle": "^4.13 || ^5.3"
     },
+    "conflict": {
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0"
+    },
     "autoload": {
         "psr-4": {
             "TisiDigital\\ContaoExtendedArticleBundle\\": "src/"
