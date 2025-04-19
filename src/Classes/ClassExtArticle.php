@@ -234,7 +234,7 @@ class ClassExtArticle
 							display: flex;
 							align-items: ' . $verticalAlignment . '; 
 							justify-content: center; 
-							z-index: -2;
+							z-index: 0;
 						}'; 
 				}
 			}
