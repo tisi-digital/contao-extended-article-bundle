@@ -22,7 +22,7 @@
         "source": "https://github.com/tisi-digital/contao-extended-article-bundle"
     },
     "require": {
-        "contao/core-bundle": "^4.13 || ^5.3"
+        "contao/core-bundle": "^4.13 || ^5.3 || ^5.7"
     },
     "conflict": {
         "contao/manager-plugin": "<2.0 || >=3.0"
